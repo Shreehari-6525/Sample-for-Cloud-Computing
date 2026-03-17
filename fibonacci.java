@@ -6,7 +6,7 @@ class fibonacci
     {
        Scanner sc = new Scanner(System.in);
       int num;
-       System.out.println("\n---------------FIBONACCI SERIES------------------")
+       System.out.println("\n---------------FIBONACCI SERIES------------------");
       System.out.print("Enter a Number: ");
       num = sc.nextInt();
 
@@ -14,7 +14,7 @@ class fibonacci
       int b = 1;
       int next;
 
-      System.out.println("\n-------------------------------------------------")
+      System.out.println("\n-------------------------------------------------");
 
       for(int i = 0; i <= num; i++)
         {
