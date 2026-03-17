@@ -24,6 +24,7 @@ class fibonacci
           b = next;
           
         }
+      System.out.println();
 
     }
  
